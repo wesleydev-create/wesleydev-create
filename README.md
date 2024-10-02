@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @wesleydev-create
 - 👀 I’m interested in estudar
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on em grupo
+- 📫 How to reach me gmail wesleyraf2011@gmail.com
+- 😄 Pronouns: ele/dele 
 - ⚡ Fun fact: ...
 
 <!---

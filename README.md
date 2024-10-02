@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on em grupo
 - 📫 How to reach me gmail wesleyraf2011@gmail.com
 - 😄 Pronouns: ele/dele 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: em novos projetos 
 
 <!---
 wesleydev-create/wesleydev-create is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

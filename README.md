@@ -84,17 +84,6 @@ Sistema completo para clínicas odontológicas contendo:
 - Sistema responsivo
 
 ---
-
-## 💳 Plataforma Financeira
-
-Sistema financeiro moderno com:
-
-- Controle de transações
-- Dashboard analítico
-- Gestão de usuários
-- Integrações bancárias
-- Autenticação segura
-
 ---
 
 # 📈 Contribuições

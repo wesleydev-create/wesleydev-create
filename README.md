@@ -1,115 +1,63 @@
 <div align="center">
-
-# 👨‍💻 Wesley Dias
-
-### Full Stack Developer • React • Next.js • Node.js
-
-<p>
-Especializado no desenvolvimento de aplicações web modernas, APIs escaláveis e sistemas completos com foco em performance, arquitetura e experiência do usuário.
-</p>
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleydev-create&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydev-create&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=wesleydev-create&theme=tokyonight&hide_border=true"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 </div>
-
----
-
-# 🚀 Sobre mim
-
-```bash
-> Full Stack Developer
-> Building scalable web applications
-> React • Next.js • Node.js • TypeScript
-```
-
----
-
-# 🛠️ Tecnologias
 
 <div align="center">
-
-<img align="center" alt="React" height="45" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-<img align="center" alt="NextJS" height="45" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-
-<img align="center" alt="TypeScript" height="45" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
-<img align="center" alt="JavaScript" height="45" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-<img align="center" alt="NodeJS" height="45" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-<img align="center" alt="Express" height="45" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-
-<img align="center" alt="MongoDB" height="45" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-
-<img align="center" alt="PostgreSQL" height="45" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-
-<img align="center" alt="Docker" height="45" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-<img align="center" alt="Git" height="45" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Developer-Vini&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Vini&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Top Languages"/>
 </div>
-
----
-
-# 📌 Projetos
-
-## 🦷 Sistema de Gestão Odontológica
-
-Sistema completo para clínicas odontológicas contendo:
-
-- Agendamento inteligente
-- Gestão financeira
-- Controle de pacientes
-- Dashboard administrativo
-- APIs RESTful
-- Sistema responsivo
-- Multiusuário
-
----
-
-# 📈 Contribuições
 
 <div align="center">
-
-![Snake animation](https://github.com/wesleydev-create/wesleydev-create/blob/output/github-contribution-grid-snake.svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=ACCESS:+VINICIUS.SYS;STATUS:+ACTIVE;AGE:+16;MODE:+DEVELOPMENT" alt="Typing SVG"/>
+  </a>
 </div>
-
----
-
-# 🌎 Contato
 
 <div align="center">
-
-<a href="https://github.com/wesleydev-create">
-<img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/wesley-dias-272b2b331/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:wesleyraf2011@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Vini&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
+
+<div align="center">
+  
+  ## ABILITIES
+  
+  <!-- Linha 1 -->
+  <img src="https://img.icons8.com/?size=256&id=13441&format=png" width="80">
+  <img width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="80"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80">
+  <img width="80" alt="image-assembly" src="https://github.com/user-attachments/assets/b280e293-8832-49c7-9009-3ba1528cf0a2" />
+
+
+
+  
+  <!-- Linha 2 -->
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80">
+  
+  <!-- Linha 3 -->
+  <br>
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="80" alt="HTML5">
+  <img src="https://img.icons8.com/color/2x/css3.png" width="80" alt="CSS3">
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="80" alt="JavaScript">
+</div>
+
+<div align="center">
+  
+  <!-- Replace with your own GIFs -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400">
+  
+</div>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=18&center=true&vCenter=true&width=1000&lines=SYSTEM+READY.;DEPLOY+COMPLETE.)](https://git.io/typing-svg)
+  
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=footer"/>

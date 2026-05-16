@@ -5,7 +5,7 @@
 ### Full Stack Developer • React • Next.js • Node.js
 
 <p>
-Especializado no desenvolvimento de aplicações web modernas, APIs escaláveis e sistemas completos com foco em performance e experiência do usuário.
+Especializado no desenvolvimento de aplicações web modernas, APIs escaláveis e sistemas completos com foco em performance, arquitetura e experiência do usuário.
 </p>
 
 <br/>
@@ -82,8 +82,8 @@ Sistema completo para clínicas odontológicas contendo:
 - Dashboard administrativo
 - APIs RESTful
 - Sistema responsivo
+- Multiusuário
 
----
 ---
 
 # 📈 Contribuições
@@ -101,15 +101,15 @@ Sistema completo para clínicas odontológicas contendo:
 <div align="center">
 
 <a href="https://github.com/wesleydev-create">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/wesley-dias-272b2b331/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:wesleyraf2011@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
